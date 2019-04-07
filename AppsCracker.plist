@@ -1,0 +1,8 @@
+{
+    Filter =     {
+        Bundles =         (
+            "com.kinemaster.app",
+            "com.mobivio.cutecut","com.tang.ivideofree","com.iphoneislam.elasalaty","com.lightricks.Enlight-Phoenix","mega.ios","com.focos","com.picsart.studio"
+        );
+    };
+}

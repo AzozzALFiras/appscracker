@@ -1,0 +1,9 @@
+Package: ajbbotech.com.appscracker
+Name: AppsCracker
+Depends: mobilesubstrate, ws.hbang.common
+Version: 0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: aJBbo
+Author: Ahmed Salah
+Section: Tweaks
